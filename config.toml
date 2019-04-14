@@ -1,0 +1,37 @@
+baseURL = "https://nathanknox.dev"
+author = "Nathan Knox"
+title = "Nathan Knox's Blog"
+theme = "beautifulhugo"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[Params]
+  subtitle = "Musings on software engineering and leadership."
+  comments = true
+  readingTime = true
+  wordCount = true
+  showRelatedPosts = true
+
+[Author]
+  name = "Nathan Knox"
+  email = "nathan.knox@gmail.com"
+  linkedin = "nathan-knox-2b783914"
+
+[menu]
+
+  [[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
