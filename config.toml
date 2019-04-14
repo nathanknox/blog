@@ -2,6 +2,7 @@ baseURL = "https://nathanknox.dev"
 author = "Nathan Knox"
 title = "Nathan Knox's Blog"
 theme = "beautifulhugo"
+metaDataFormat = "yaml"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
