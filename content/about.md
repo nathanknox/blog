@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 date: 2019-04-14T16:30:29-04:00
 author: "Nathan Knox"
 draft: false
