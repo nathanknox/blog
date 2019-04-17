@@ -1,6 +1,6 @@
 baseURL = "https://nathanknox.dev"
 author = "Nathan Knox"
-title = "Nathan Knox's Blog"
+title = "Nathan Knox"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 languageCode = "en-us"
@@ -36,3 +36,8 @@ enableInlineShortcodes = true
     name = "About"
     url = "/about/"
     weight = 3
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 5
