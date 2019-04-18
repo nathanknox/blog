@@ -1,6 +1,6 @@
 baseURL = "https://nathanknox.dev"
 author = "Nathan Knox"
-title = "Nathan Knox"
+title = "Nathan's Blog"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 languageCode = "en-us"
