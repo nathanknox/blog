@@ -14,7 +14,7 @@ enableInlineShortcodes = true
 
 [Params]
   subtitle = "Musings on software engineering and leadership."
-  logo = "avatar.jpg"
+  logo = "img/avatar.jpg"
   comments = true
   readingTime = true
   wordCount = true
